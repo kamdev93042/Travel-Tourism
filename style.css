@@ -29,8 +29,9 @@ body{
    text-transform: uppercase;
    position: relative;
    animation-name: example;
-   animation-duration: .9s;
+   animation-duration: .6s;
    animation-iteration-count: infinite;
+   animation-direction:alternate;
 }
 
 .Logo{
