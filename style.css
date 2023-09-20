@@ -89,7 +89,7 @@ body{
 .search-bar #search-button{
     width:250px;
     font-size: 14px;
-    padding: 2px;
+    padding: 4px;
     border: none;
     border-radius: 4px;
 }
